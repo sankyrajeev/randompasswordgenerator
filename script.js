@@ -177,9 +177,9 @@ function getOptions() {
         }
 
         for (var i = 0; i < opt.length; i++) {
-            var possible = getRandom(possible);
+            var p = getRandom(possible);
 
-            result.push(possible);
+            result.push(p);
         }
 
         for (var i = 0; i < guaranteed.length; i++) {
