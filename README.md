@@ -19,6 +19,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 When the user clicks the button, "Generate Password", then the user is given a series of prompts each of which will ask the user of a different criteria regarding the random password. The user will also be asked how long the password should be, then be given a random password with the criteria that they chose. 
 
+The link to the above page is https://sankyrajeev.github.io/randompasswordgenerator/
+
     
    md![alt text](assets/screenshot.png)
     ```
